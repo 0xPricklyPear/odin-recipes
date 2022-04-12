@@ -1,0 +1,1 @@
+This repo will store my learning progress on the Odin Project.
