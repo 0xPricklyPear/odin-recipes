@@ -1,12 +1,12 @@
 body {
-    background-color: salmon;
+    background-color: lightsalmon;
     font-family: "Verdana", sans-serif;
 }
 
 h1,
 h2 {
     color: darkred;
-    background-color: powderblue;
+    background-color: rgb(167, 241, 219);
     font-weight: bolder;
     text-align: center;
 }
@@ -27,7 +27,7 @@ h2{
 
 .main {
     display: block;
-    background-color: powderblue;
+    background-color: rgb(167, 241, 219);
     margin-left: 50px;
     margin-right: 50px;
     border: 10px darkcyan;
