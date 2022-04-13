@@ -1,14 +1,39 @@
 body {
-    background-color: aquamarine;
-    font: "Verdana", sans-serif;
+    background-color: salmon;
+    font-family: "Verdana", sans-serif;
+}
+
+h1,
+h2 {
+    color: darkred;
+    background-color: powderblue;
+    font-weight: bolder;
+    text-align: center;
 }
 
 h1 {
-    color: lightseagreen;
-    background-color: coral;
-    
+    font-size: 48px;
 }
 
-h2 {
-    color: indianred;
+h2{
+    font-size: 36px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main {
+    display: block;
+    background-color: powderblue;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 10px darkcyan;
+}
+
+ul img {
+    height: 30px;
+    width: auto;
 }
